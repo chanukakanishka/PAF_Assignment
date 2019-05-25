@@ -1,0 +1,27 @@
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 70%;
+    margin: auto;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+  table {
+    width: 100%;
+  }
+
+  .actions{
+      float: right;
+      margin-bottom: 20px;
+      .btn-add{
+          margin-left: 20px;
+      }
+  }
+
+  span{
+      &:hover{
+          cursor: pointer;
+      }
+  }
