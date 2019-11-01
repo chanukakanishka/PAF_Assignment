@@ -14,7 +14,7 @@
     "jade": "~1.11.0",
     "morgan": "~1.9.1",
     "mysql2": "^1.6.5",
-    "sequelize": "^4.43.0",
+    "sequelize": "^5.15.1",
     "dotenv": "^6.0.0",
     "nodemailer": "^4.6.7",
     "nodemailer-express-handlebars": "^3.0.0"
